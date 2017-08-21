@@ -12,6 +12,10 @@ body {
 
 }
 
+ul.tabbar {
+    padding-left: 28%;
+}
+
 h1 {
 
 	color: #282c2c;
